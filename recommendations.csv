@@ -1,0 +1,7 @@
+﻿recommended_name,recommended_ssn,recommended_sex,recommended_custid,recommended_add,recommended_email,recommended_no,recommended_age
+correct,missing,not,missing,is correct,not,correct,correct
+correct,correct,missing,correct,is correct,missing,correct,correct
+missing,incorrect,correct,incorrect,is missing,correct,incorrect,incorrect
+incorrect,correct,correct,correct,is incorrect,correct,missing,missing
+missing,correct,correct,correct,is missing,correct,correct,correct
+correct,missing,incorrect,correct,correct,missing,incorrect,missing
